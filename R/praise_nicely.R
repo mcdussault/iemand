@@ -4,8 +4,7 @@
 #' @importFrom magrittr "%>%"
 #' @return  A praise (character)
 #' @export
-#'
-#' @examples None yet
+#' @examples
 #'
 
 

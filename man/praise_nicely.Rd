@@ -16,6 +16,5 @@ A praise (character)
 Praise
 }
 \examples{
-None yet
 
 }

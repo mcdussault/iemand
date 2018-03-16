@@ -1,6 +1,6 @@
 #' Gives a name based on assigned gender
 #'
-#' @param sex
+#' @param sex (character)
 #'
 #' @return Returns a name
 #' @export

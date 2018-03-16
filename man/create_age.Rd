@@ -15,6 +15,3 @@ Create an age for someone
 \details{
 This is a useless function we created to learn! Gives an age
 }
-\examples{
-none
-}
