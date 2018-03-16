@@ -1,7 +1,7 @@
 Package: iemand
 Version: 0.0.0.9000
 Title: Create Fake People
-Description: What the package does (one paragraph).
+Description: This package creates fake people.
 Authors@R: person("Marie", "Dussault", email = "mcdussault@hotmail.co.uk", role = c("aut", "cre"))
 License: MIT + file LICENSE
 Encoding: UTF-8

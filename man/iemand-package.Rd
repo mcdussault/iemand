@@ -6,7 +6,7 @@
 \alias{iemand-package}
 \title{iemand: Create Fake People}
 \description{
-What the package does (one paragraph).
+This package creates fake people.
 }
 \author{
 \strong{Maintainer}: Marie Dussault \email{mcdussault@hotmail.co.uk}
