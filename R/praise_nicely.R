@@ -4,7 +4,7 @@
 #' @importFrom magrittr "%>%"
 #' @return  A praise (character)
 #' @export
-#'
+#' @examples praise_nicely("everyone")
 #'
 
 
