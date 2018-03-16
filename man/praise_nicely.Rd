@@ -15,6 +15,4 @@ A praise (character)
 \description{
 Praise
 }
-\examples{
 
-}
