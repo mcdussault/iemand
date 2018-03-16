@@ -1,4 +1,5 @@
 [![Travis build status](https://travis-ci.org/mcdussault/iemand.svg?branch=master)](https://travis-ci.org/mcdussault/iemand)
+[![Coverage status](https://codecov.io/gh/mcdussault/iemand/branch/master/graph/badge.svg)](https://codecov.io/github/mcdussault/iemand?branch=master)
 
 # iemand
 
