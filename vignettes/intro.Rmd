@@ -1,0 +1,29 @@
+---
+title: "Introduction to the iemand package"
+author: "Marie Christine Dussault"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+Package to create a fake person using the iemand package
+
+Let me show you how to make a fake person, give them an age and praise them
+
+```{r}
+library(iemand)
+age <- create_age()
+name<- give_name(sex = "female")
+praise_nicely(name = name)
+```
+
