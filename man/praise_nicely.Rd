@@ -16,7 +16,6 @@ A praise (character)
 Praise
 }
 \examples{
-praise_nicely("everyone")
+None yet
 
-#' '@importFrom magrittr "\%>\%"
 }
